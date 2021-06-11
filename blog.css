@@ -1,0 +1,21 @@
+*{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 1.5rem;
+}
+header{
+    border: black solid 1px;
+}
+.navbar{
+    padding: 3rem;
+    
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+}
+.btn-outline-dark{
+    margin-left: 1rem;
+}
+.card{
+    margin-left: 10px;
+}
